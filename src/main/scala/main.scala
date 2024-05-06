@@ -143,6 +143,7 @@ object main extends App {
 
     order + "," + finalDiscount + "," + finalPrice
   }
+
   println(ordersWithDiscounts(1))
 
   log_event(writer, f, "info", "Opened DB Connection")
