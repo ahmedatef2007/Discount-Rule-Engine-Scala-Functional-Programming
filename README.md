@@ -12,7 +12,7 @@ The Discount Engine for the retail store is a Java application designed to autom
 
 1. **Clone Repository**:
    ```
-   git clone https://github.com/your-username/discount-engine.git
+   git clone https://github.com/ahmedatef2007/Discount-Rule-Engine-Scala-Functional-Programming.git
    ```
 
 2. **Import Project**: Import the project into your preferred Java IDE.
