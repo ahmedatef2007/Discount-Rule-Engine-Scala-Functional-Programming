@@ -15,7 +15,7 @@ The Discount Engine for the retail store is a Java application designed to autom
    git clone https://github.com/ahmedatef2007/Discount-Rule-Engine-Scala-Functional-Programming.git
    ```
 
-2. **Import Project**: Import the project into your preferred Java IDE.
+2. **Import Project**: Import the project into your IntelliJ IDE.
 
 3. **Database Configuration**:
    - Update the database connection details in the code (`main.scala`) with your Oracle database URL, username, and password.
