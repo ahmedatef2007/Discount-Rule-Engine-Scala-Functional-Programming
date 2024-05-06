@@ -24990,3 +24990,2007 @@ Timestamp: 2024-05-06T18:52:44.152569800Z	LogLevel: info	Message: Order Inserted
 Timestamp: 2024-05-06T18:52:44.153568400Z	LogLevel: info	Message: Order Inserted
 Timestamp: 2024-05-06T18:52:44.153568400Z	LogLevel: info	Message: Closed DB Connection
 Timestamp: 2024-05-06T18:52:44.154571600Z	LogLevel: info	Message: Closing Writer
+Timestamp: 2024-05-06T19:00:52.994722100Z	LogLevel: info	Message: Openning Writer
+Timestamp: 2024-05-06T19:00:53.149536400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.150536500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.150536500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.150536500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.150536500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.150536500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.150536500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.150536500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.152042100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.152042100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.152042100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.152042100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.152042100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.153047400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.153047400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.153047400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.153047400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.154048600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.154048600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.154048600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.154048600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.154048600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.155050300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.155050300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.155050300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.155050300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.156052300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.156052300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.156052300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.156052300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.156052300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.157062500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.157062500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.157062500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.157062500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.157062500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.158050200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.158050200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.158050200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.158050200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.158050200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.158050200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.159095500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.159095500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.159095500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.159095500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.159095500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.159095500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.160095200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.160095200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.160095200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.160095200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.160095200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.160095200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.160095200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.161602400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.161602400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.161602400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.161602400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.161602400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.162609800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.162609800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.162609800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.162609800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.162609800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.162609800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.163608800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.163608800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.163608800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.163608800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.163608800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.163608800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.163608800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.164608500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.164608500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.164608500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.164608500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.164608500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.164608500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.165608500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.165608500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.165608500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.165608500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.165608500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.165608500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.165608500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.166608100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.166608100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.166608100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.166608100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.166608100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.166608100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.166608100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.166608100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.166608100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.168113100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.168196900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.168196900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.168196900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.168196900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.168196900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.169122100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.169122100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.169122100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.169122100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.169122100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.169122100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.169122100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.170120300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.170120300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.170120300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.170120300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.170120300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.170120300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.170120300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.170120300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.170120300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.170120300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.170120300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.171628200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.171628200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.171628200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.171628200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.171628200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.171628200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.171628200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.172637100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.172637100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.172637100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.172637100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.172637100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.172637100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.173634600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.173634600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.173634600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.173634600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.173634600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.173634600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.173634600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.173634600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.174633600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.174633600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.174633600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.174633600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.174633600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.174633600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.174633600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.175634500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.175634500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.175634500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.175634500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.175634500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.175634500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.175634500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.175634500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.176635800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.176635800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.176635800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.176635800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.176635800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.176635800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.176635800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.176635800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.176635800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.176635800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.176635800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.178143500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.178143500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.178143500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.178143500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.178143500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.178143500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.178143500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.179154Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.179154Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.179154Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.179154Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.179154Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.179154Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.179154Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.179154Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.180154700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.180154700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.180154700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.180154700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.180154700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.180154700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.180154700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.180154700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.180154700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.180154700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.180154700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.180154700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.180154700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.181662700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.181662700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.181662700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.181662700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.181662700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.181662700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.182669900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.182669900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.182669900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.182669900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.182669900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.182669900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.182669900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.182669900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.182669900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.183670Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.183670Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.183670Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.183670Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.183670Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.184669900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.184669900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.184669900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.184669900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.184669900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.184669900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.185668900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.185668900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.185668900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.185668900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.185668900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.185668900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.185668900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.185668900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.185668900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.186669Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.186669Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.186669Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.186669Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.186669Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.186669Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.186669Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.186669Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.186669Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.186669Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.186669Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.186669Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.186669Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.186669Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.188179300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.188179300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.188179300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.188179300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.188179300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.188179300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.188179300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.188179300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.188179300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.188179300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.189189500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.189189500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.189189500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.189189500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.189189500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.189189500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.189189500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.189189500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.189189500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.190187700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.190187700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.190187700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.190187700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.190187700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.190187700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.190187700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.190187700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.190187700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.190187700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.190187700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.190187700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.190187700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.190187700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.191694200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.191694200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.191694200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.191694200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.191694200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.191694200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.191694200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.191694200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.192701700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.192701700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.192701700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.192701700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.192701700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.192701700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.192701700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.192701700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.192701700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.192701700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.193701300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.193701300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.193701300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.193701300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.193701300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.193701300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.193701300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.193701300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.193701300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.193701300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.194700500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.194700500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.194700500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.194700500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.194700500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.194700500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.194700500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.194700500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.194700500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.195705900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.195705900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.195705900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.195705900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.195705900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.195705900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.195705900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.195705900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.195705900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.196709200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.196709200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.196709200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.196709200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.196709200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.196709200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.196709200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.196709200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.196709200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.196709200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.196709200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.196709200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.196709200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.196709200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.196709200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.198281600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.198281600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.198281600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.198281600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.198281600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.198281600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.198281600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.198281600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.198281600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.198281600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.199234900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.199234900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.199234900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.199234900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.199234900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.199234900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.199234900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.199234900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.199234900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.200230900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.200230900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.200230900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.200230900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.200230900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.200230900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.200230900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.200230900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.200230900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.200230900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.200230900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.200230900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.200230900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.200230900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.200230900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.200230900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.201798800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.201798800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.201798800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.201798800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.201798800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.202754900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.202754900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.202754900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.202754900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.202754900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.202754900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.202754900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.202754900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.202754900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.203759900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.203759900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.203759900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.203759900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.203759900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.203759900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.203759900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.203759900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.203759900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.203759900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.203759900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.203759900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.204851200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.204851200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.204851200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.204851200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.204851200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.204851200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.204851200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.204851200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.204851200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.205765400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.205765400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.205765400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.205765400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.205765400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.205765400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.205765400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.205765400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.205765400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.205765400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.206760900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.206760900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.206760900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.206760900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.206760900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.206760900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.206760900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.206760900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.206760900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.206760900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.206760900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.206760900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.206760900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.206760900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.206760900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.206760900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.206760900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.208268300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.208268300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.208268300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.208268300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.208268300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.208268300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.208268300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.208268300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.208268300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.208268300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.209275400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.209275400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.209275400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.209275400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.209275400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.209275400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.209275400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.209275400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.209275400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.209275400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.210273500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.210273500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.210273500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.210273500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.210273500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.210273500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.210273500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.210273500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.210273500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.211273800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.211273800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.211273800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.211273800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.211785300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.211785300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.211785300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.211785300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.211785300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.211785300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.212290800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.212359500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.212359500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.212359500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.212359500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.212359500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.212359500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.212359500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.212359500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.212359500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.212359500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.213297800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.213297800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.213297800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.213297800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.213297800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.213297800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.213297800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.213297800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.213297800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.213297800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.213297800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.214302700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.214302700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.214302700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.214302700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.214302700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.214302700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.214302700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.214302700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.214302700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.214302700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.214302700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.214302700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.215296300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.215296300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.215296300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.215296300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.216300600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.216300600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.216300600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.216300600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.216300600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.217298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.217298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.217298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.217298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.217298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.217298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.217298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.217298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.217298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.217298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.217298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.217298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.218298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.218298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.218298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.218298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.218298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.218298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.218298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.218298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.218298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.218298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.218298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.218298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.218298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.218298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.218298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.218298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.218298100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.219779700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.219779700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.219779700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.219779700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.219779700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.219779700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.219779700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.219779700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.219779700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.219779700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.219779700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.219779700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.219779700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.219779700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.219779700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.219779700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.219779700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.219779700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.221288800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.221288800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.221288800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.221288800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.221288800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.221288800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.221288800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.221288800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.221288800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.221288800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.221288800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.221288800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.221288800Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.222295400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.222295400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.222295400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.222295400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.222295400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.222295400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.222295400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.222295400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.222295400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.222295400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.222295400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.222295400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.223301500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.223301500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.223301500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.223301500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.223301500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.223301500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.223301500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.223301500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.223301500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.223301500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.224298400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.224298400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.224298400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.224298400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.224298400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.224298400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.224298400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.224298400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.224298400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.225297300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.225297300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.225297300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.225297300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.225297300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.225297300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.225297300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.225297300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.225297300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.225297300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.225297300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.225297300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.225297300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.226296100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.226296100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.226296100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.226296100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.226296100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.226296100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.226296100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.226296100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.226296100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.226296100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.226296100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.226296100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.226296100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.226296100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.226296100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.227989300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.227989300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.227989300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.228843600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.228843600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.228843600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.228843600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.228843600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.229834300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.231438400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.231438400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.231438400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.231438400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.231438400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.231438400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.231438400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.231438400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.231438400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.231438400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.231438400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.232347600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.232347600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.232347600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.232347600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.232347600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.232347600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.232347600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.232347600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.232347600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.232347600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.232347600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.232347600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.232347600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.232347600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.232347600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.233347400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.233347400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.233347400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.233347400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.233347400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.233347400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.233347400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.233347400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.233347400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.233347400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.233347400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.233347400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.233347400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.233347400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.233347400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.234348Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.234348Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.234348Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.234348Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.234348Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.234348Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.234348Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.234348Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.234348Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.234348Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.234348Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.234348Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.234348Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.234348Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.234348Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.234348Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.235350200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.235350200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.235350200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.235350200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.235350200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.235350200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.235350200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.235350200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.235350200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.235350200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.235350200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.235350200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.235350200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.235350200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.235350200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.236348500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.237853300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.237853300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.237853300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.237853300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.237853300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.237853300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.237853300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.237853300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.237853300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.237853300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.237853300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.237853300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.237853300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.237853300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.237853300Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.238858700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.238858700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.238858700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.238858700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.238858700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.238858700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.238858700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.238858700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.238858700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.238858700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.238858700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.238858700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.239859500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.241375700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.241452500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.241452500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.241452500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.241452500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.241452500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.241452500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.242390100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.242390100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.242390100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.242390100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.242390100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.242390100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.242390100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.242390100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.242390100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.242390100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.242390100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.243384Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.243384Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.243384Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.243384Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.243384Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.243384Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.243384Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.243384Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.243384Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.243384Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.243384Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.243384Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.243384Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.243384Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.243384Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.243384Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.244383200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.244383200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.244383200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.244383200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.244383200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.244383200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.244383200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.244383200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.244383200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.244383200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.244383200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.244383200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.244383200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.244383200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.244383200Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.245382700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.245382700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.245382700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.245382700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.245382700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.245382700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.245382700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.245382700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.245382700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.245382700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.245382700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.245382700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.245382700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.245382700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.245382700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.245382700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.246382100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.247887900Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.247996400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.247996400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.247996400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.247996400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.247996400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.247996400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.247996400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.247996400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.247996400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.247996400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.247996400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.247996400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.247996400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.247996400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.248900500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.248900500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.248900500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.251403700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.251403700Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.252411500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.252411500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.252411500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.252411500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.252411500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.252411500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.252411500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.252411500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.252411500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.252411500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.252411500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.252411500Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.253410400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.253410400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.253410400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.253410400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.253410400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.253410400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.253410400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.253410400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.253410400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.253410400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.253410400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.253410400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.253410400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.253410400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.253410400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.253410400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.253410400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.253410400Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.254410600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.254410600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.254410600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.254410600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.254410600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.254410600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.254410600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.254410600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.254410600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.254410600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.254410600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.254410600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.254410600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.254410600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.254410600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.254410600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.254410600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.254410600Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.255412Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.256412100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.256412100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.256412100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.256412100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.256412100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.256412100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.256412100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.256412100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.256412100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.256412100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.256412100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.256412100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.256412100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.256412100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.256412100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.256412100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.256412100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.256412100Z	LogLevel: info	Message: Order Discount Counted
+Timestamp: 2024-05-06T19:00:53.901946900Z	LogLevel: info	Message: Opened DB Connection
+Timestamp: 2024-05-06T19:00:53.984524200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.026508800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.029021300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.030560800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.031566200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.032568600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.034596800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.035601100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.036589800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.038096500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.039103800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.040609600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.041613600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.042616600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.043642400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.045643600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.046615700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.046615700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.049154300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.049154300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.050684600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.051690100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.052690300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.053691200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.054690700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.055717400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.056691Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.056691Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.058273Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.059228900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.060733600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.061741400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.062739100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.062739100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.064739900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.065739700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.065739700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.066739500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.068245Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.068245Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.069251100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.069251100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.070756800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.071764300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.072763900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.073762400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.074764Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.075764300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.076762700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.077764Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.078829100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.079828700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.080829300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.082047500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.083047200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.083047200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.084047400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.085048Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.086047500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.086047500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.087046800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.088046800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.089219300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.089219300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.090726Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.091732500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.092732700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.093732700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.093732700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.094732500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.095732500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.096732500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.096732500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.098239300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.099245Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.099245Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.100752200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.101759400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.102757600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.103762200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.105762400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.107760100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.108853800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.109850900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.110889600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.112252800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.113252900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.113252900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.114542300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.115517200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.116517200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.116517200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.118025500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.119032700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.119032700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.120537800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.121545100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.123554700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.124556400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.125554800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.126555700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.126555700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.128061200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.129085300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.129085300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.130590800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.130590800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.131622200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.132625400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.133596800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.134596800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.134596800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.135621200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.138129800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.139166600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.140690700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.141721400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.142698900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.143697400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.143697400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.144722700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.145697900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.146697200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.146697200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.148201500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.149208Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.149208Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.150714400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.151721500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.152722200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.155721300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.156721200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.156721200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.158279400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.159233900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.159233900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.160739500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.160739500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.161746600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.162747700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.163747Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.164745700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.164745700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.165746200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.166746800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.166746800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.168338200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.169260600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.169260600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.170820Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.171770600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.171770600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.172771300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.173780Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.174777400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.175776400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.176777600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.177776800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.177776800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.179146600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.179146600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.181718300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.182714600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.183716700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.184717300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.185716500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.185716500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.186752200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.188267300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.188267300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.189275200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.190781700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.190781700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.191827Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.192814100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.193788200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.193788200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.194813700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.195814800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.196789100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.197788700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.197788700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.198828500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.199803300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.200804600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.201331Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.202337200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.202337200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.203362900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.204362800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.205335500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.205335500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.206338400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.207845100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.207845100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.208878200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.209861700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.210876800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.210876800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.212284100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.213286500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.213819300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.214825800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.214825800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.215853200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.216825400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.217825500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.218975Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.218975Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.221485900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.221485900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.222486900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.223485800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.223485800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.228997100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.230596900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.231562700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.232562700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.233533200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.233533200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.234560Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.235560400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.236534600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.236534600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.238067Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.238067Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.239073700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.239073700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.240630400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.240630400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.241585100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.242585Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.242585Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.243586400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.243586400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.244584800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.245584600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.245584600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.246583400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.246583400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.246583400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.248184900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.249097100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.249097100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.250603300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.251608800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.252608400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.253611100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.253611100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.254609400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.255613100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.256610300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.256610300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.258117600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.258117600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.259123Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.259123Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.260629600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.261636300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.262634800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.262634800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.263635500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.264636Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.264636Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.265639200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.266637200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.266637200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.268144400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.269152300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.269152300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.270658Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.271666500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.272670Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.273716200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.274708300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.275703600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.276663600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.276663600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.278171200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.278171200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.279177400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.279177400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.280684800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.281690500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.282692400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.282692400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.283729800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.284691800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.285691400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.285691400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.286728500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.286728500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.288242100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.289249500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.289249500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.290781900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.290781900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.291822800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.292787600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.293789600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.293789600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.294810800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.295787300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.295787300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.296815800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.297788300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.299208800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.299208800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.300740Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.301746700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.301746700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.302773700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.303744500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.303744500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.304771700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.305748100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.306747200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.306747200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.306747200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.308253600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.309260600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.309260600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.310767400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.310767400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.311774800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.311774800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.313281200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.313281200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.314287700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.314287700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.315288500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.316287700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.316287700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.316287700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.317793200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.318799700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.319798200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.319798200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.320800200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.320800200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.321867200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.321867200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.322867300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.323867700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.323867700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.324866800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.324866800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.325866600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.325866600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.326867300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.326867300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.329025300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.330530400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.330530400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.330530400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.331536300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.331536300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.332536400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.332536400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.333536500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.334536800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.334536800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.335537100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.335537100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.336536200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.336536200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.336536200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.338041300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.339050200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.339050200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.340555300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.341562800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.341562800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.343562900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.343562900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.344562100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.344562100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.345560500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.345560500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.346562Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.346562Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.348070700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.349078900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.349078900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.349078900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.350638700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.351589300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.351589300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.352591500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.352591500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.353591300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.353591300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.354591900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.354591900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.355593Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.356592900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.356592900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.358099800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.358175600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.359109100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.359109100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.360615700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.361623Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.361623Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.362622700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.362622700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.363622500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.364621900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.364621900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.365621900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.365621900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.366623200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.366623200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.368129200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.368129200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.370692900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.371647900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.371647900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.372648400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.373646700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.373646700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.374648100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.374648100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.375647900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.375647900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.376647800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.376647800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.378153300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.378153300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.379159800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.379159800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.379159800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.380725Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.380725Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.381672600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.382672700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.382672700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.383672300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.383672300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.384672200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.384672200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.385672100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.385672100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.386671900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.386671900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.386671900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.388242800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.389185200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.390691Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.391699800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.392699600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.392699600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.393735900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.394701400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.395698900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.395698900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.396696700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.396696700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.398203Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.398203Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.399210600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.399210600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.399210600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.400715300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.401722800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.402722500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.402722500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.403748900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.403748900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.404746800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.405753300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.406724800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.406724800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.408233400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.409267300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.410778800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.411813500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.411813500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.411813500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.414353500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.414353500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.416369400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.416369400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.417878Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.418882900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.418882900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.419884200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.419884200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.420883300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.420883300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.420883300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.422292400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.422292400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.423291700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.423291700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.424291400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.424291400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.425291300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.425291300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.426291300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.426291300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.426291300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.427796900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.427796900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.428803200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.428803200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.429803400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.430802Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.430802Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.431887700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.432887400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.433886200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.435886200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.436888100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.437887Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.439214Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.439214Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.439214Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.440722500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.440722500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.441729800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.442729600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.442729600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.443729300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.443729300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.444728900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.444728900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.445727800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.445727800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.446728400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.446728400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.448233700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.448233700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.449239500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.449239500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.450813Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.451788100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.452753500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.452753500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.453752700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.453752700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.454751600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.455753200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.459380800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.459380800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.460919800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.461951800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.462926600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.462926600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.463926500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.463926500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.464926100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.464926100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.465938Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.466929500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.467950300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.469219300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.469219300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.470750700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.471762800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.472756200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.473762600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.474764600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.475792900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.475792900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.476791Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.477793600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.479202900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.479202900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.480707400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.481715400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.482714500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.483714700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.483714700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.484740700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.484740700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.485739100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.486714400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.486714400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.488225300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.489241400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.490814200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.491761400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.493790300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.494760100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.495757800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.495757800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.497760Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.499154500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.500723100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.501681300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.503672300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.504672100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.505709300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.506706100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.509265200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.509265200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.511781400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.513395700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.514332800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.515297100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.516297Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.517298500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.517298500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.518301100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.519526800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.519526800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.522076300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.524079500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.525079600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.526079300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.527079Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.528076800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.529384400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.530896500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.532907300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.533908Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.534907900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.535945Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.537905700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.538444600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.539452300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.540963700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.541976800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.543984800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.544987700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.546984800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.547983800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.548489300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.549496300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.551081800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.552013Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.554019200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.555018800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.557020400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.558529600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.559539500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.561170700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.563067100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.564070300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.565066600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.568071900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.575957400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.582047200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.583012100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.584011200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.585050100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.586010800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.587009600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.588011400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.589267100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.589267100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.590801Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.591808600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.610904400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.652598400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.654612700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.658118800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.660652500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.662667800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.665679Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.669206800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.671729600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.679256Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.685784100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.687784500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.691822900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.703906900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.710936700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.715475Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.728028200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.748105300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.759167800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.768207200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.771741600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.783807Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.786809800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.790902100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.793868100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.796869700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.801911800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.805926600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.808439Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.811989900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.815525900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.816531200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.819052700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.821053900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.823311400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.824309700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.826312800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.827821800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.828828400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.830831Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.831336400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.832341600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.834347400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.835349600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.836347900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.837858800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.838868Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.841384300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.842392400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.844400600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.845401900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.846399600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.847909200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.848918400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.849919100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.850919700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.851951700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.852950700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.852950700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.853958500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.854958300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.855958900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.856972900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.857960400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.859050400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.859050400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.860050100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.861054400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.862235700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.863237300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.863237300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.864236800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.865236800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.866236800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.867240400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.868239Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.869311900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.870819500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.870819500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.871828Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.872832200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.876840500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.878951500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.879949100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.880949200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.881455200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.882465800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.883464300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.884464700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.884464700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.885463700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.886465300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.886465300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.887973Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.888982200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.889988800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.890983500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.891491500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.893500500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.893500500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.894500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.895500200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.895500200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.896498500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.896498500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.898007Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.899014800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.900015900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.900015900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.901521800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.902528100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.903531Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.904529900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.905530300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.909053100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.910559500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.911567900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.912566900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.912566900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.914071600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.914071600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.915080100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.916079200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.918078500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.918583700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.920589500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.920589500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.922011500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.923019800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.924033100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.925026100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.925026100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.926030900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.927028600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.927028600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.928532800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.929541800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.930543Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.931607800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.932608400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.932608400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.933615400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.934616400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.935618100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.936617Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.936617Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.939140100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.940651700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.941664200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.942660100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.943661200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.944658800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.944658800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.945661600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.946672Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.948180200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.949190100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.949190100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.950698300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.951724300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.952708Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.953710Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.954709200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.954709200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.955713Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.955713Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.956709600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.956709600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.958216700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.958216700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.959224200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.959224200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.959224200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.960738100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.960738100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.961745600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.961745600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.962745800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.962745800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.963745200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.963745200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.964746Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.964746Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.965744200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.965744200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.966744600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.966744600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.966744600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.968253800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.968253800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.969261400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.969261400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.971778900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.972789200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.973787Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.974778800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.974778800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.975782700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.976780100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.976780100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.978844800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.978844800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.979845200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.981348200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.982357500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.982357500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.983369500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.984364600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.984364600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.985364200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.985364200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.986365100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.986365100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.987870400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.987870400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.988876700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.988876700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.989878600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.989878600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.990877300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.990877300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.990877300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.991907500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.991907500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.992907100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.992907100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.993907Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.993907Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.993907Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.994907700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.994907700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.994907700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.995906700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.995906700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.996905600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.996905600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.996905600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.997907700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.997907700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.997907700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:54.999012300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.000013Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.001524500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.002532Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.002532Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.003531700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.003531700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.005533600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.006533200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.008040900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.009053600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.009053600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.010563900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.010563900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.011571200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.011571200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.012570600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.013571Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.013571Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.013571Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.014919700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.014919700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.015918700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.015918700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.016918800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.017919300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.017919300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.017919300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.019274800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.019274800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.019274800Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.020779900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.020779900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.021786700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.021786700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.022787700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.023787600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.023787600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.023787600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.024787300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.024787300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.025785700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.025785700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.026786900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.026786900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.027787600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.027787600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.027787600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.029862500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.029862500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.030844100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.030844100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.031889100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.032886700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.033894700Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.034889400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.035894100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.035894100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.037901600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.039322600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.040833600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.041842200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.041842200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.042842500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.042842500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.043843100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.043843100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.044841600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.044841600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.044841600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.045840600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.045840600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.046841200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.046841200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.046841200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.047841400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.047841400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.048918600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.048918600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.049918400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.051427400Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.052438300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.053442500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.054434600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.055445200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.056435500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.056435500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.058017300Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.058950900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.058950900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.059952Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.059952Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.060952Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.060952Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.060952Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.062085100Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.063089500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.063089500Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.064083Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.064083Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.065107200Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.066085600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.066085600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.067084600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.067084600Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.068085900Z	LogLevel: info	Message: Order Inserted
+Timestamp: 2024-05-06T19:00:55.068085900Z	LogLevel: info	Message: Closed DB Connection
+Timestamp: 2024-05-06T19:00:55.069150500Z	LogLevel: info	Message: Closing Writer

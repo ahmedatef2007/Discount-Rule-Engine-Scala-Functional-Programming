@@ -8,7 +8,8 @@ object main extends App {
   val f: File = new File("src/main/resources/logs.txt")
   val writer = new PrintWriter(new FileOutputStream(f, true))
   log_event(writer, f, "info", "Openning Writer")
-
+  val outputFile = new File("src/main/resources/orders_with_discounts.csv")
+  val csvWriter = new PrintWriter(outputFile)
 
   val orders = Source.fromFile("src/main/resources/TRX1000.csv").getLines().toList.tail
   //  orders.foreach(println)
@@ -203,10 +204,19 @@ object main extends App {
     writer.flush()
   }
 
+  def writeResultsToCSV(ordersWithDiscounts: List[String], writer: PrintWriter): Unit = {
+    // Write header
+    writer.println("Order Date,Product Name,Expiry Date,Quantity,Unit Price,Discount,Final Price")
+
+    // Write each order with its corresponding details
+    ordersWithDiscounts.foreach(writer.println)
+  }
+
   ordersWithDiscounts.foreach(write_to_db(_))
   log_event(writer, f, "info", "Closed DB Connection")
   connection.close()
   log_event(writer, f, "info", "Closing Writer")
+  writeResultsToCSV(ordersWithDiscounts, csvWriter)
 
   writer.close()
 }
