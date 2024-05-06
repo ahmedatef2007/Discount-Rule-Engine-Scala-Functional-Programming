@@ -215,8 +215,12 @@ object main extends App {
   ordersWithDiscounts.foreach(write_to_db(_))
   log_event(writer, f, "info", "Closed DB Connection")
   connection.close()
-  log_event(writer, f, "info", "Closing Writer")
+  log_event(writer, f, "info", "Writing to a csv")
+
   writeResultsToCSV(ordersWithDiscounts, csvWriter)
+  log_event(writer, f, "info", " Finihsed Writing to a csv")
+
+  log_event(writer, f, "info", "Closing Writer")
 
   writer.close()
 }
