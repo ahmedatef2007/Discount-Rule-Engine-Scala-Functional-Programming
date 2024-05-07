@@ -39,7 +39,10 @@ object main extends App {
     List((cheese_and_wine_qualifier, get_cheese_and_wine_discount),
       (more_than_5_qualifier, get_more_than_5_discount),
       (products_sold_23_march_qualifier, get_products_sold_23_march_discount),
-      (less_than_30_qualifier_using_days_between, get_less_than_30_qualifier_discount))
+      (less_than_30_qualifier_using_days_between, get_less_than_30_qualifier_discount),
+      (app_usage_qualifier, get_app_usage_discount),
+      (visa_card_qualifier, get_visa_card_discount)
+    )
   }
 
   // bought more than 5 of the same product
@@ -130,6 +133,30 @@ object main extends App {
 
     if (orderMonth == 3 && orderDay == 23) 0.5
     else 0.0
+  }
+
+  // Sales made through the App will have a special discount
+  def app_usage_qualifier(order: String): Boolean = {
+    val channel = order.split(",")(5)
+    channel.equalsIgnoreCase("App")
+  }
+
+  def get_app_usage_discount(order: String): Double = {
+    val quantity = order.split(",")(3).toInt
+    val roundedQuantity = scala.math.ceil(quantity / 5.0) * 5
+    if (roundedQuantity <= 5) 0.05
+    else if (roundedQuantity <= 10) 0.10
+    else 0.15
+  }
+
+  // Sales made using Visa cards qualify for a minor discount of 5%
+  def visa_card_qualifier(order: String): Boolean = {
+    val paymentMethod = order.split(",")(6)
+    paymentMethod.equalsIgnoreCase("Visa")
+  }
+
+  def get_visa_card_discount(order: String): Double = {
+    0.05
   }
 
   def get_order_with_discount(order: String, rules: List[(String => Boolean, String => Double)]): String = {
