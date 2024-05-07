@@ -1,4 +1,4 @@
-### Discount Engine for Retail Store
+## Discount Engine for Retail Store
 
 The Discount Engine for the retail store is a Java application designed to automate the discount calculation process based on specific qualifying rules. This application reads order data from a CSV file, applies discount rules, calculates final prices, and inserts the processed data into an Oracle database.
 
@@ -7,6 +7,7 @@ The Discount Engine for the retail store is a Java application designed to autom
 - **Discount Rules**: Implements various discount rules based on product types, remaining days before expiry, quantity sold, and special dates.
 - **Database Interaction**: Utilizes Oracle JDBC driver to connect to a database and insert processed order data.
 - **Logging Mechanisms**: Logs engine rule interactions and errors to a text file for debugging and auditing purposes.
+
 ### Discount Rules Implemented:
 
 1. **More Than 5 Qualifier Rule**:
@@ -60,6 +61,7 @@ CREATE TABLE orders (
 ```
 
 This table structure is used to store the processed order data, including order details, discounts, and total prices. Adjust data types and sizes as needed based on your specific requirements.
+
 #### How to Use:
 
 1. **Clone Repository**:
